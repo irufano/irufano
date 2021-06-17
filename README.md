@@ -50,9 +50,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.irufano.com"><img src="https://img.shields.io/badge/-irufano?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/muhammad-irfan-hidayat-8b548b169/"><img src="https://img.shields.io/badge/-irufano?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:irfanhidayatms@gmail.com"><img src="https://img.shields.io/badge/-irufano?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.irufano.com"><img src="https://img.shields.io/badge/-irufano-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/muhammad-irfan-hidayat-8b548b169/"><img src="https://img.shields.io/badge/-irufano-3423A6?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:irfanhidayatms@gmail.com"><img src="https://img.shields.io/badge/-irufano-3423A6?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
 -----
