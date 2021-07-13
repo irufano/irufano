@@ -8,8 +8,8 @@
 🌱 &nbsp;I'm interesting on mobile and web development.\
 ✍️ &nbsp;I'm also interesting on Graphic Design and Blog Writing.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at irfanhidayatms@gmail.com! I'll try to respond as soon as I can.
-
+<!-- ✉️ &nbsp;You can shoot me an email at irfanhidayatms@gmail.com! I'll try to respond as soon as I can.
+ -->
 ### 🛠 &nbsp;Tech Stack
 
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=03a9f4)&nbsp;
@@ -42,7 +42,7 @@
 <p align="center">
 <a href="https://www.irufano.com"><img src="https://img.shields.io/badge/-irufano.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/muhammad-irfan-hidayat-8b548b169/"><img src="https://img.shields.io/badge/-irufano-3423A6?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:irfanhidayatms@gmail.com"><img src="https://img.shields.io/badge/-irufano mail-3423A6?style=flat&logo=Gmail&logoColor=white"/></a>
+<!-- <a href="mailto:irfanhidayatms@gmail.com"><img src="https://img.shields.io/badge/-irufano mail-3423A6?style=flat&logo=Gmail&logoColor=white"/></a> -->
 </p>
 
 -----
