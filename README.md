@@ -1,4 +1,4 @@
-<h2>Hi there, I'm irufano</h2>
+<h2>Hi, I'm irufano</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Irufano -->
 
