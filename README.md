@@ -12,6 +12,8 @@
  -->
 ### 🛠 &nbsp;Tech Stack
 
+![Python](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=python)&nbsp;
+![OpenCV](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=opencv)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=03a9f4)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Nest](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nestjs&logoColor=e0234e)&nbsp;
