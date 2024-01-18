@@ -5,7 +5,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🌱 &nbsp;I'm interesting on mobile and web development.\
+🌱 &nbsp;I'm interesting on mobile, web development and machine learning.\
 ✍️ &nbsp;I'm also interesting on Graphic Design and Blog Writing.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
 <!-- ✉️ &nbsp;You can shoot me an email at irfanhidayatms@gmail.com! I'll try to respond as soon as I can.
