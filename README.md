@@ -15,11 +15,13 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=03a9f4)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![NextJs](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=spring)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=00e5ff)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
@@ -43,4 +45,4 @@
 -----
 Credits: [irufano](https://github.com/irufano)
 
-Last Edited on: 17/06/2021
+Last Edited on: 17/06/2024
