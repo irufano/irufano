@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a computer science enthusiast. I like to explore new technologies and develop software solutions.\
-🌱 &nbsp;I'm interesting on mobile, web development, machine learning & generative AI.\
-✍️ &nbsp;I'm also interesting on Graphic Design and Blog Writing.\
+💡 &nbsp;A computer science enthusiast. Loves exploring new technologies and developing software solutions.\
+🌱 &nbsp;Interested in frontend development, backend development, machine learning, and generative AI\
+✍️ &nbsp;Interests outside IT include graphic design and blog writing.\
 💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.
 <!-- ✉️ &nbsp;You can shoot me an email at irfanhidayatms@gmail.com! I'll try to respond as soon as I can.
  -->
